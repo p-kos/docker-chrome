@@ -136,7 +136,7 @@ run xquartz
 
 It will start a white console, if you are running for the first time please check **Allow connections from network clients** going to Preferences > Security
 
-![xquartz configuration][image01]
+![xquartz configuration](xquartzConfig.png)
 
 ## Run chrome
 
